@@ -1,0 +1,4 @@
+Metric,Value
+Mean per-image pixel ROC-AUC,0.9748
+Overall pixel ROC-AUC,0.9616
+Images evaluated,63

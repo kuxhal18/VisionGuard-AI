@@ -1,0 +1,38 @@
+# Local backup files
+app_backup.py
+app_before_dashboard_upgrade.py
+
+# Local virtual environment
+.venv/
+
+# Dataset
+data/mvtec-ad/# Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# macOS files
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset and large generated data
+data/mvtec-ad/
+data/baseline_results.csv
+data/baseline_roc.png
+
+# Temporary files
+*.tmp
+*.log
+
+data/dataset_preview.png

@@ -1,0 +1,13 @@
+Metric,Value
+Image-level ROC-AUC,1.0
+Exploratory threshold,1.6445936463999646
+Accuracy,1.0
+Normal precision,1.0
+Normal recall,1.0
+Defective precision,1.0
+Defective recall,1.0
+Defective F1-score,1.0
+True negatives,20.0
+False positives,0.0
+False negatives,0.0
+True positives,63.0
